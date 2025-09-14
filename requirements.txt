@@ -1,0 +1,13 @@
+openai>=1.0.0
+tiktoken>=0.7
+transformers>=4.41
+accelerate>=0.33
+sentencepiece>=0.1.99
+safetensors>=0.4
+pytrec_eval>=0.5
+trueskill>=0.4
+tqdm>=4.66
+scipy>=1.11
+numpy>=1.26
+sentence-transformers>=2.2.0
+torch>=2.0.0
